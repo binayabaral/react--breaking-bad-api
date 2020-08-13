@@ -1,3 +1,13 @@
+## Breaking Bad Characters App
+
+Search your Favourite breaking bad Characters and their status/details.
+
+## Live Demo
+
+This Project is live [here](https://breaking-bad.binayabaral.com.np).
+
+## Project Starter
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
