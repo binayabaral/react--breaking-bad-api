@@ -4,7 +4,7 @@ Search your Favourite breaking bad Characters and their status/details.
 
 ## Live Demo
 
-This Project is live [here](https://breaking-bad.binayabaral.com.np).
+This Project is live [here](https://breaking-bad-app.binayabaral.com.np).
 
 ## Project Starter
 
